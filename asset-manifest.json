@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/book-quiz-react/static/css/main.b8b75a74.chunk.css",
+    "main.js": "/book-quiz-react/static/js/main.843c8e7c.chunk.js",
+    "main.js.map": "/book-quiz-react/static/js/main.843c8e7c.chunk.js.map",
+    "runtime-main.js": "/book-quiz-react/static/js/runtime-main.eec77f88.js",
+    "runtime-main.js.map": "/book-quiz-react/static/js/runtime-main.eec77f88.js.map",
+    "static/js/2.6a770fd2.chunk.js": "/book-quiz-react/static/js/2.6a770fd2.chunk.js",
+    "static/js/2.6a770fd2.chunk.js.map": "/book-quiz-react/static/js/2.6a770fd2.chunk.js.map",
+    "index.html": "/book-quiz-react/index.html",
+    "static/css/main.b8b75a74.chunk.css.map": "/book-quiz-react/static/css/main.b8b75a74.chunk.css.map",
+    "static/js/2.6a770fd2.chunk.js.LICENSE.txt": "/book-quiz-react/static/js/2.6a770fd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eec77f88.js",
+    "static/js/2.6a770fd2.chunk.js",
+    "static/css/main.b8b75a74.chunk.css",
+    "static/js/main.843c8e7c.chunk.js"
+  ]
+}
